@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T07:09:20.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="IChyGp-trOB6uRQpg_9v" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T07:11:37.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JASIS1im0G3hxM3ZIwj1" version="20.5.3" type="github">
   <diagram id="56GYBsFCfhR0HCsXTQ25" name="ページ1">
     <mxGraphModel dx="1373" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="Y_U_LzYmE-6DljhowkF5-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;shadow=0;strokeColor=#67AB9F;strokeWidth=6;fontFamily=Times New Roman;fontSize=17;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="280" as="sourcePoint" />
-            <mxPoint x="720" y="490" as="targetPoint" />
+            <mxPoint x="720" y="460" as="targetPoint" />
             <Array as="points">
               <mxPoint x="570" y="230" />
               <mxPoint x="690" y="300" />
