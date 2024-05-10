@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T06:57:05.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="MUCOheP_Xa4_bnx8zycz" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-10T13:15:15.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qgo2JlAuofZ9SvcgVPVO" version="24.3.1" type="github">
   <diagram name="ページ1" id="CCNTEzxWiJyxap5tas2j">
-    <mxGraphModel>
+    <mxGraphModel dx="1138" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TcMamwRgwzX-il15ZwhI-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=auto;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TcMamwRgwzX-il15ZwhI-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=hatch;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TcMamwRgwzX-il15ZwhI-6" value="従来法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=31;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TcMamwRgwzX-il15ZwhI-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="160" as="sourcePoint" />
+            <mxPoint x="280" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TcMamwRgwzX-il15ZwhI-9" value="入射核" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="85" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TcMamwRgwzX-il15ZwhI-10" value="標的核" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TcMamwRgwzX-il15ZwhI-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=auto;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="550" y="85" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TcMamwRgwzX-il15ZwhI-13" value="複合核" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="590" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TcMamwRgwzX-il15ZwhI-17" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TcMamwRgwzX-il15ZwhI-18" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TcMamwRgwzX-il15ZwhI-19" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="130" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TcMamwRgwzX-il15ZwhI-20" value="融合過程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="180" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TcMamwRgwzX-il15ZwhI-21" value="融合後、複合核になる" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TcMamwRgwzX-il15ZwhI-26" value="多核子移行反応" style="rounded=0;whiteSpace=wrap;html=1;fontSize=31;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TcMamwRgwzX-il15ZwhI-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=auto;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TcMamwRgwzX-il15ZwhI-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=hatch;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="140" y="450" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TcMamwRgwzX-il15ZwhI-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="470" as="sourcePoint" />
+            <mxPoint x="180" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
